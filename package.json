@@ -1,9 +1,39 @@
 {
   "name": "tic-tok-game",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Simple Tic Tac Toe game logic package in JavaScript.",
-  "main": "index.js",
-  "keywords": ["tic-tac-toe", "tic tok", "game", "js", "tic tac toe", "tic tok", "javascript game", "tic tac toe js", "game engine", "npm tic tac toe", "js board game", "2 player game", "tic-tok-game", "npm package", "turn based game","npm game package","tic-tok-game"],
-  "author": "Vijay Lunagariya",
-  "license": "MIT"
+  "main": "src/index.js",
+  "bin": {
+    "tic-tok-game": "src/index.js"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "build": "if not exist dist mkdir dist && copy src\\game.html dist\\index.html /Y && copy src\\game.css dist\\style.css /Y && copy src\\game.js dist\\script.js /Y",
+  "prestart": "npm run build",
+  "prepublish": "npm run build"
+  },
+  "keywords": [
+    "tic-tac-toe",
+    "tic tok",
+    "game",
+    "js",
+    "tic tac toe",
+    "tic tok",
+    "javascript game",
+    "tic tac toe js",
+    "game engine",
+    "npm tic tac toe",
+    "js board game",
+    "2 player game",
+    "tic-tok-game",
+    "npm package",
+    "turn based game",
+    "npm game package",
+    "tic-tok-game"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "open": "^8.4.2"
+  }
 }

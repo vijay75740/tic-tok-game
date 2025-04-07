@@ -1,9 +1,9 @@
 <div align="center">
 <h1>tic tok toe game</h1>
 
-![Known Vulnerabilities](https://snyk.io/test/github/vijay75740/currency-converter-nodejs/badge.svg?targetFile=package.json)  ![supported node versions](https://img.shields.io/badge/node%20v-12.x%20%7C%2013.x%20%7C%2014.x%20%7C%2015.x%20%7C%2016.x%20%7C%2017.x%20%7C%2018.x-blue) 
- ![license: MIT](https://img.shields.io/npm/l/vue.svg) [![npm version](https://badge.fury.io/js/currency-converter-vl.svg)](https://badge.fury.io/js/currency-converter-vl) ![npm](https://img.shields.io/npm/dm/currency-converter-vl)
-<p>The Currency Converter App is a powerful and user-friendly tool designed to simplify the process of converting one currency to another. Whether you're a traveler, a business professional, or someone dealing in international transactions, this app provides accurate and real-time currency conversion to meet your needs.</p>
+![Known Vulnerabilities](https://snyk.io/test/github/vijay75740/tic-tok-game/badge.svg?targetFile=package.json)  ![supported node versions](https://img.shields.io/badge/node%20v-12.x%20%7C%2013.x%20%7C%2014.x%20%7C%2015.x%20%7C%2016.x%20%7C%2017.x%20%7C%2018.x-blue) 
+ ![license: MIT](https://img.shields.io/npm/l/vue.svg) [![npm version](https://badge.fury.io/js/tic-tok-game.svg)](https://badge.fury.io/js/tic-tok-game) ![npm](https://img.shields.io/npm/dm/tic-tok-game)
+<p>Simple Tic Tac Toe game logic package in JavaScript.</p>
 </div>
 
 # 🎮 Tic Tok Game - A Simple Tic Tac Toe Game in JavaScript

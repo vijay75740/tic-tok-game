@@ -1,0 +1,9 @@
+{
+  "name": "tic-tok-game",
+  "version": "1.0.0",
+  "description": "Simple Tic Tac Toe game logic package in JavaScript.",
+  "main": "index.js",
+  "keywords": ["tic-tac-toe", "tic tok", "game", "js"],
+  "author": "Vijay Lunagariya",
+  "license": "MIT"
+}
